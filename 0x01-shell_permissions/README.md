@@ -57,3 +57,5 @@ Write a script that changes the owner of the file hello to betty only if it is o
 
 The file hello will be in the working directory
 Write a script that will play the StarWars IV episode in the terminal.
+
+Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
