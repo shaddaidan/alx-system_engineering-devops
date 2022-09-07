@@ -13,3 +13,11 @@ Value: rm *
 4 Create a script that counts the number of directories in the PATH.
 
 5 Create a script that lists environment variables.
+
+6 Create a script that creates a new local variable.
+
+
+
+Name: BEST
+
+Value: School
